@@ -9,8 +9,6 @@ This is a responsive website using React and Tailwind CSS to  showcase housing a
 
 ![Screenshot 1](https://github.com/Jayesh-vs/Tailwind-Website/blob/90f94d246d0de7e820c148200fdf8f433341442c/preview/Header.gif)
 
-![Screenshot 2](https://github.com/Jayesh-vs/Tailwind-Website/blob/90f94d246d0de7e820c148200fdf8f433341442c/preview/About.png)
-
 ![Screenshot 2](https://github.com/Jayesh-vs/Tailwind-Website/blob/90f94d246d0de7e820c148200fdf8f433341442c/preview/Project.gif)
 
 ![Screenshot 2](https://github.com/Jayesh-vs/Tailwind-Website/blob/90f94d246d0de7e820c148200fdf8f433341442c/preview/Website.png)
